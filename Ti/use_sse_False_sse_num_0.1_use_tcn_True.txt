@@ -1,0 +1,2 @@
+epoch:5, time: 124.638770(s), valid (NDCG@10: 0.4716, HR@10: 0.7321), test (NDCG@10: 0.4501, HR@10: 0.7157)
+epoch:10, time: 249.856467(s), valid (NDCG@10: 0.5320, HR@10: 0.7796), test (NDCG@10: 0.5161, HR@10: 0.7589)

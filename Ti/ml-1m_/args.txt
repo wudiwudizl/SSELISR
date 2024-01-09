@@ -1,0 +1,15 @@
+batch_size,256
+dataset,ml-1m
+dropout_rate,0.2
+hidden_units,50
+l2_emb,5e-05
+lr,0.01
+maxlen,50
+num_blocks,2
+num_epochs,10
+num_heads,1
+sse_num,0.1
+time_span,256
+train_dir,
+use_sse,True
+use_tcn,True
